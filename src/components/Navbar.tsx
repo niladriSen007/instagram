@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className="h-24 flex items-center justify-between">
       {/* LEFT */}
       <div className="md:hidden lg:block w-[20%]">
-        <Link href="/" className="font-bold text-xl bg-gradient-to-r from-pink-500 to-orange-600 text-transparent bg-clip-text ">
+        <Link href="/" className="font-bold text-xl bg-gradient-to-r   from-pink-500 via-red-600 to-yellow-400 text-transparent bg-clip-text ">
           Instagram
         </Link>
       </div>
