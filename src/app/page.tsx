@@ -2,7 +2,7 @@ import { lazy } from "react"
 const Leftbar = lazy(() => import("@/components/Leftbar"))
 const Rightbar = lazy(() => import("@/components/Rightbar"))
 const AddPost = lazy(() => import("@/components/content/AddPost"))
-const PostFeed = lazy(() => import("@/components/content/PostFeed"))
+const PostFeed = lazy(() => import("@/components/feed/PostFeed"))
 const Stories = lazy(() => import("@/components/content/Stories"))
 
 const Homepage = () => {
