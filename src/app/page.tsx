@@ -1,6 +1,6 @@
 import { lazy } from "react"
-const Leftbar = lazy(() => import("@/components/Leftbar"))
-const Rightbar = lazy(() => import("@/components/Rightbar"))
+const Leftbar = lazy(() => import("@/components/leftbar/Leftbar"))
+const Rightbar = lazy(() => import("@/components/rightbar/Rightbar"))
 const AddPost = lazy(() => import("@/components/content/AddPost"))
 const PostFeed = lazy(() => import("@/components/feed/PostFeed"))
 const Stories = lazy(() => import("@/components/content/Stories"))
