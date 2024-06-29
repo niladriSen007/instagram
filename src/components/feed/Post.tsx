@@ -1,6 +1,8 @@
 import Image from "next/image"
 import { Suspense } from "react"
 import PostInfo from "./PostInfo"
+import PostInteraction from "./PostInteraction"
+import Comments from "./Comments"
 
 const Post = () => {
   return (
@@ -46,14 +48,14 @@ const Post = () => {
       </div>
 
       <Suspense fallback="Loading...">
-        {/* <PostInteraction
-          postId={post.id}
+        <PostInteraction
+         /*  postId={post.id}
           likes={post.likes.map((like) => like.userId)}
-          commentNumber={post._count.comments}
-        /> */}
+          commentNumber={post._count.comments} */
+        />
       </Suspense>
       <Suspense fallback="Loading...">
-       {/*  <Comments postId={post.id} /> */}
+        <Comments />
       </Suspense>
     </div>
   )
