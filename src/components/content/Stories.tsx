@@ -11,7 +11,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -22,7 +22,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -32,7 +32,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -43,7 +43,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -53,7 +53,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -64,7 +64,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -74,7 +74,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -85,7 +85,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -95,7 +95,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -106,7 +106,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -116,7 +116,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -127,7 +127,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -137,7 +137,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -148,7 +148,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -158,7 +158,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -169,7 +169,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
         <div
@@ -179,7 +179,7 @@ const Stories = () => {
           <div className="rounded-full bg-gradient-to-r from-pink-500 to-yellow-500  flex items-center justify-center p-1">
             <Image
               src={
-                "https://images.unsplash.com/photo-1718964313551-420f92249238?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" ||
+                "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a29obGl8ZW58MHx8MHx8fDA%3D" ||
                 "/noAvatar.png"
               }
               alt=""
@@ -190,7 +190,7 @@ const Stories = () => {
           </div>
           <span className="font-medium">
             {/*  {story.user.name || story.user.username} */}
-            Niladri
+            Kohli
           </span>
         </div>
        
